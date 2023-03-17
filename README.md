@@ -3,4 +3,4 @@
 ## Task 2 : Data Insights - Targeting high value customers based on customer demographics and attributes
 ## Task 3 : Data Insights and Presentation - Using visualisations to present insights
 
-![image](https://user-images.githubusercontent.com/61032181/225955405-3a4127b2-68e3-4893-9d5f-50edbc21da66.png)
+![image](https://user-images.githubusercontent.com/61032181/225955659-ac3fc695-f980-46fd-96eb-f145e2232f9f.png)
